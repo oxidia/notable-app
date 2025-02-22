@@ -21,8 +21,8 @@
 
 ## List Notes Screen
 
-![Notes Screen](screenshots/notes-screen.png "Notes Screen")
+<img src="./screenshots/notes-screen.png" alt="Notes screen" width="200" />
 
 ## Add Note Screen
 
-![Add Edit Note Screen](screenshots/add-edit-note-screen.png "Add Edit Note Screen")
+<img src="./screenshots/add-edit-note-screen.png" alt="Add Edit Note Screen" width="200" />
